@@ -1,8 +1,13 @@
+# Hi, I'm Marco!
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&theme=highcontrast"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&layout=compact&theme=highcontrast"/>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<i class="devicon-c-plain colored"></i>
+          
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
