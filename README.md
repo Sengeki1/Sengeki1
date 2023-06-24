@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sengeki1&label=Profile%20views&color=0eb421&style=flat" alt="" /> </p>
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sengeki1&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sengeki1&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
   </a>
 </div>
