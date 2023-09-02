@@ -11,9 +11,6 @@
   </a>
 </div>
 
-<br>
-<img height=182 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sengeki1&theme=midnight-purple" />
-<br>
 
 <h3>Languages and Tools:<h3/>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
