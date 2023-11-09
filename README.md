@@ -21,7 +21,7 @@
 ### Main skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,css,html,js" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,css,html,js,sqlite" />
   </a>
 </p>
 
@@ -29,7 +29,14 @@
 ### Studying in this moment:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,r" />
+    <img src="https://skillicons.dev/icons?i=cs,r,lua,php" />
+  </a>
+</p>
+
+### Game Engines:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,unity" />
   </a>
 </p>
 
