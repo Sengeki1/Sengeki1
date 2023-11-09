@@ -6,10 +6,10 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=0000CD&text_color=c9d1d9&bg_color=0d1117" alt="Marco Soares github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&layout=compact&hide_border=true&title_color=0000CD&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=0000CD&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&layout=compact&hide_border=true&title_color=0000CD&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
 
 
 <div align="center"> 
