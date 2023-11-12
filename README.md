@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Marco+Soares;I'm+21+years+old;I'm+from+Cabo+Verde;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sengeki1&theme=github-compact&hide_border=true&line=0000CD&color=FFFFFF)](https://github.com/Sengeki1/github-readme-activity-graph)
+
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=0000CD&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
