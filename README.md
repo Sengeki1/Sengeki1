@@ -5,10 +5,8 @@
 [![Sengeki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sengeki1&theme=github-compact&hide_border=true&line=0000CD&color=FFFFFF)](https://github.com/Sengeki1/github-readme-activity-graph)
 
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=0000CD&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&layout=compact&hide_border=true&title_color=0000CD&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
+[![Sengeki1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&include_all_commits)](https://github.com/Sengeki1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15)](https://github.com/sengeki1/github-readme-stats) 
 
 
 <div align="center"> 
