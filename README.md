@@ -4,10 +4,10 @@
 
 [![Sengeki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sengeki1&theme=github-compact&hide_border=true&line=0000CD&color=FFFFFF)](https://github.com/Sengeki1/github-readme-activity-graph)
 
-
-[![Sengeki1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&include_all_commits)](https://github.com/Sengeki1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15)](https://github.com/sengeki1/github-readme-stats) 
-
+<div align='center'>
+<a href='https://github.com/Sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&include_all_commits'>
+ <a href='https://github.com/sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15'>
+</div>
 
 <div align="center"> 
 <a href="https://www.instagram.com/sengeki_marco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
