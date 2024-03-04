@@ -18,7 +18,7 @@
 ### Main skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,css,html,js,sqlite" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,css,html,js,sqlite,r,cs" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ### Studying in this moment:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,r,lua,php" />
+    <img src="https://skillicons.dev/icons?i=lua,php" />
   </a>
 </p>
 
