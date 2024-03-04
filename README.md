@@ -18,7 +18,17 @@
 ### Main skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,css,html,js,sqlite,r" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite,r" />
   </a>
 </p>
 
