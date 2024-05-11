@@ -5,38 +5,30 @@
 [![Sengeki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sengeki1&theme=github-compact&hide_border=true&line=0000CD&color=FFFFFF)](https://github.com/Sengeki1/github-readme-activity-graph)
 
 <div align='center'>
-<a href='https://github.com/Sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&include_all_commits'>
  <a href='https://github.com/sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15'>
 </div>
-
+  
 <div align="center"> 
 <a href="https://www.instagram.com/sengeki_marco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC9j5FTqWDJqkJN_So1oUX9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marco-soares-77145225a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
-### Main skills:
+
+##
+##
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,r" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,css,html,js,nodejs,mysql,r,react,git,linux,bash" />
   </a>
 </p>
 
+##
+##
 
-### Game Engines:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
   </a>
 </p>
 
