@@ -7,15 +7,17 @@
 <div align='center'>
  <a href='https://github.com/sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15'>
 </div>
-  
+
+<br>
+ 
 <div align="center"> 
 <a href="https://www.instagram.com/sengeki_marco/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC9j5FTqWDJqkJN_So1oUX9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <br>
 <a href="https://www.linkedin.com/in/marco-soares-77145225a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-##
-##
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,8 +25,7 @@
   </a>
 </p>
 
-##
-##
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
