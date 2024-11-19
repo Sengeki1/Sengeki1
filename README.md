@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
+    <img src="https://skillicons.dev/icons?i=godot,unity,blender,androidstudio" />
   </a>
 </p>
 
