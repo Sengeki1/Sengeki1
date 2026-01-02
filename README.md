@@ -4,10 +4,6 @@
 
 [![Sengeki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sengeki1&theme=github-compact&hide_border=true&line=0000CD&color=FFFFFF)](https://github.com/Sengeki1/github-readme-activity-graph)
 
-<div align='center'>
- <a href='https://github.com/sengeki1/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sengeki1&show_icons=true&count_private=true&title_color=FFFFFF&theme=darcula&hide_border=true&layout=compact&langs_count=15'>
-</div>
-
 <br>
  
 <div align="center"> 
